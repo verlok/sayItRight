@@ -1,0 +1,157 @@
+[
+  {
+    "text": "Feature",
+    "pron": "'fē-chər",
+    "audio": "featur01",
+    "compare": {
+      "text": "Future",
+      "pron": "'fyü-chər",
+      "audio": "future01"
+    }
+  },
+  {
+    "text": "Development",
+    "pron": "'di-ˈve-ləp-mənt, dē-",
+    "audio": "develo06"
+  },
+  {
+    "text": "Management",
+    "pron": "'ma-nij-mənt",
+    "audio": "manage06"
+  },
+  {
+    "text": "Maintenance",
+    "pron": "'mānt-nən(t)s, mān-tə-nən(t)s",
+    "audio": "mainte01"
+  },
+  {
+    "text": "Header",
+    "pron": "'he-dər",
+    "audio": "header01"
+  },
+  {
+    "text": "Debt",
+    "pron": "'det",
+    "audio": "debt0001"
+  },
+  {
+    "text": "Inventory",
+    "pron": "'in-vən-ˌtȯr-ē",
+    "audio": "invent06"
+  },
+  {
+    "text": "Variety",
+    "pron": "və-ˈrī-ə-tē",
+    "audio": "variet02"
+  },
+  {
+    "text": "Category",
+    "pron": "ˈka-tə-ˌgȯr-ē",
+    "audio": "catego06"
+  },
+  {
+    "text": "Configure",
+    "pron": "kən-ˈfi-gyər",
+    "audio": "config04"
+  },
+  {
+    "text": "Optimization",
+    "pron": "ˌäp-tə-mə-ˈzā-shən",
+    "audio": "optimi06"
+  },
+  {
+    "text": "Direct",
+    "pron": "də-ˈrekt, dī-",
+    "audio": "direct01"
+  },
+  {
+    "text": "Steak",
+    "pron": "ˈstāk",
+    "audio": "steak001",
+    "compare": {
+      "text": "Stake",
+      "pron": "ˈstāk",
+      "audio": "stake001"
+    }
+  },
+  {
+    "text": "Attribute",
+    "pron": "ˈa-trə-ˌbyüt",
+    "audio": "attrib01"
+  },
+  {
+    "text": "Often",
+    "pron": "ȯ-fən, ÷ˈȯf-tən",
+    "audio": "often001"
+  },
+  {
+    "text": "Thought",
+    "pron": "ˈthȯt",
+    "audio": "though02"
+  },
+  {
+    "text": "Performance",
+    "pron": "pə(r)-ˈfȯr-mən(t)s",
+    "audio": "perfor11"
+  },
+  {
+    "text": "Repository",
+    "pron": "ri-ˈpä-zə-ˌtȯr-ē",
+    "audio": "reposi06"
+  },
+  {
+    "text": "Statistics",
+    "pron": "stə-ˈtis-tiks",
+    "audio": "statis07"
+  },
+  {
+    "text": "Allow",
+    "pron": "ə-ˈlau̇",
+    "audio": "allow001"
+  },
+  {
+    "text": "Command",
+    "pron": "kə-ˈmand",
+    "audio": "comman01"
+  },
+  {
+    "text": "Hierarchy",
+    "pron": "hī-(ə-)ˌrär-kē; ˈhi(-ə)r-ˌär-",
+    "audio": "hierar07"
+  },
+  {
+    "text": "Mandatory",
+    "pron": "ˈman-də-ˌtȯr-ē",
+    "audio": "mandat04"
+  },
+  {
+    "text": "Interesting",
+    "pron": "ˈin-t(ə-)rəs-tiŋ; ˈin-tə-ˌres-, ˈin-ˌtres-; ˈin-tərs-",
+    "audio": "intere03"
+  },
+  {
+    "text": "Request",
+    "pron": "ri-ˈkwest",
+    "audio": "reques01"
+  },
+  {
+    "text": "Assistant",
+    "pron": "-tənt",
+    "audio": "assist03"
+  },
+  {
+    "text": "Alert",
+    "pron": "ə-ˈlərt",
+    "audio": "alert001"
+  },
+  {
+    "text": "Demand",
+    "pron": "di-ˈmand, -ˈmänd, dē-",
+    "audio": "demand01"
+  },
+  {
+    "text": "Method",
+    "pron": "ˈme-thəd",
+    "audio": "method01"
+  }
+]
