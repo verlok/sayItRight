@@ -1,50 +1,56 @@
+$critical-usage-threshold: 1;
+$graceful-usage-threshold: 5;
+
 @import "compass/css3";
+//@import "compass/reset";
 
 body {
-  font-size: 1.5em;
-  text-align: center;
-  font-family: Georgia, serif;
-  margin: 1em;
+	font-size: 1.5em;
+	text-align: center;
+	font-family: Georgia, serif;
+	margin: 1em;
 }
-h1 {
-  margin: 1em 0;
-  font-weight: bold;
-}
+
 .sprites {
-  display: none;
+	display: none;
 }
+
 .words {
-  margin: 10px auto;
+	margin: 10px auto;
 }
+
 .word {
-  line-height: 1.8em;
+	line-height: 1.8em;
 }
+
 .diff {
-  color: grey; 
-  font-size: .8em;
+	color: grey;
+	font-size: .8em;
 }
+
 .pron {
-  color: rgb(124, 0, 127);
-  font-size: 80%;
-  font-family: Helvetica, sans-serif;
+	color: rgb(124, 0, 127);
+	font-size: 80%;
+	font-family: Helvetica, sans-serif;
 }
+
 .icon {
-  width: 20px;
-  height: auto;
+	width: 20px;
+	height: auto;
 }
 
 /* SVG ICON */
 
 .speaker_body {
-  fill: #111111;
-  stroke: #111111; 
-  stroke-width: 5;
-  stroke-linejoin: round;
-} 
+	fill: #111111;
+	stroke: #111111;
+	stroke-width: 5;
+	stroke-linejoin: round;
+}
 
 .speaker_wave {
-  fill: none;
-  stroke: #111111; 
-  stroke-width: 5;
-  stroke-linecap: round;
+	fill: none;
+	stroke: #111111;
+	stroke-width: 5;
+	stroke-linecap: round;
 }

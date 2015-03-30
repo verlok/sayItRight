@@ -15,10 +15,16 @@
         return ret;
     }
 
+	// Event listening for the play button
+	var $wordsContainer = $('#words_container')
+	$wordsContainer.on('click', 'button', function (e) {
+		document.getElementById($(this).attr('data-play')).play();
+	});
+
+	// Get the words and create the dynamic DOM
 	$.getJSON("data/words.json").done(function(words) {
 		// DOM string to be placed
-		var wordsHtml = "", word,
-			$wordsContainer = $('#words_container');
+		var wordsHtml = "", word;
 
 		for (index in words) {
 			word = words[index];
@@ -33,12 +39,7 @@
 
 		// DOM modifications
 		$('.wordsCount').html(words.length.toString());
-		$wordsContainer.append(wordsHtml);
-
-		// event listening
-		$wordsContainer.on('click', 'button', function (e) {
-			document.getElementById($(this).attr('data-play')).play();
-		});
+		$wordsContainer.html(wordsHtml);
 	});
 
 }());
