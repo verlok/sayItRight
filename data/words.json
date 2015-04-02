@@ -1,42 +1,52 @@
 [
   {
     "text": "Feature",
-    "pron": "'fē-chər",
+    "pron": "ˈfē-chər",
     "audio": "featur01",
     "compare": {
       "text": "Future",
-      "pron": "'fyü-chər",
+      "pron": "ˈfyü-chər",
       "audio": "future01"
     }
   },
   {
     "text": "Development",
-    "pron": "'di-ˈve-ləp-mənt, dē-",
+    "pron": "ˈdi-ˈve-ləp-mənt, dē-",
     "audio": "develo06"
   },
   {
     "text": "Management",
-    "pron": "'ma-nij-mənt",
-    "audio": "manage06"
+    "pron": "ˈma-nij-mənt",
+    "audio": "manage06",
+    "compare": {
+      "text": "Manage",
+      "pron": "ˈma-nij",
+      "audio": "manage01"
+    }
   },
   {
     "text": "Maintenance",
-    "pron": "'mānt-nən(t)s, mān-tə-nən(t)s",
+    "pron": "ˈmānt-nən(t)s, mān-tə-nən(t)s",
     "audio": "mainte01"
   },
   {
     "text": "Header",
-    "pron": "'he-dər",
+    "pron": "ˈhe-dər",
     "audio": "header01"
   },
   {
+    "text": "Engine",
+    "pron": "ˈen-jən",
+    "audio": "engine01"
+  },
+  {
     "text": "Debt",
-    "pron": "'det",
+    "pron": "ˈdet",
     "audio": "debt0001"
   },
   {
     "text": "Inventory",
-    "pron": "'in-vən-ˌtȯr-ē",
+    "pron": "ˈin-vən-ˌtȯr-ē",
     "audio": "invent06"
   },
   {
