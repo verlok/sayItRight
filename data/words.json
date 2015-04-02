@@ -12,7 +12,12 @@
   {
     "text": "Development",
     "pron": "ˈdi-ˈve-ləp-mənt, dē-",
-    "audio": "develo06"
+    "audio": "develo06",
+    "compare": {
+      "text": "Developer",
+      "pron": "di-ˈve-lə-pər, dē-",
+      "audio": "develo04"
+    }
   },
   {
     "text": "Management",
@@ -60,6 +65,16 @@
     "audio": "catego06"
   },
   {
+    "text": "Performance",
+    "pron": "pə(r)-ˈfȯr-mən(t)s",
+    "audio": "perfor11"
+  },
+  {
+    "text": "Alert",
+    "pron": "ə-ˈlərt",
+    "audio": "alert001"
+  },
+  {
     "text": "Configure",
     "pron": "kən-ˈfi-gyər",
     "audio": "config04"
@@ -73,6 +88,16 @@
     "text": "Direct",
     "pron": "də-ˈrekt, dī-",
     "audio": "direct01"
+  },
+  {
+    "text": "Method",
+    "pron": "ˈme-thəd",
+    "audio": "method01"
+  },
+  {
+    "text": "Often",
+    "pron": "ȯ-fən, ÷ˈȯf-tən",
+    "audio": "often001"
   },
   {
     "text": "Steak",
@@ -90,29 +115,14 @@
     "audio": "attrib01"
   },
   {
-    "text": "Often",
-    "pron": "ȯ-fən, ÷ˈȯf-tən",
-    "audio": "often001"
-  },
-  {
     "text": "Thought",
     "pron": "ˈthȯt",
     "audio": "though02"
   },
   {
-    "text": "Performance",
-    "pron": "pə(r)-ˈfȯr-mən(t)s",
-    "audio": "perfor11"
-  },
-  {
     "text": "Repository",
     "pron": "ri-ˈpä-zə-ˌtȯr-ē",
     "audio": "reposi06"
-  },
-  {
-    "text": "Statistics",
-    "pron": "stə-ˈtis-tiks",
-    "audio": "statis07"
   },
   {
     "text": "Allow",
@@ -150,18 +160,13 @@
     "audio": "assist03"
   },
   {
-    "text": "Alert",
-    "pron": "ə-ˈlərt",
-    "audio": "alert001"
-  },
-  {
     "text": "Demand",
     "pron": "di-ˈmand, -ˈmänd, dē-",
     "audio": "demand01"
   },
   {
-    "text": "Method",
-    "pron": "ˈme-thəd",
-    "audio": "method01"
+    "text": "Statistics",
+    "pron": "stə-ˈtis-tiks",
+    "audio": "statis07"
   }
 ]
