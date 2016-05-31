@@ -55,6 +55,36 @@
     "audio": "debt0001"
   },
   {
+    "text": "Alert",
+    "pron": "ə-ˈlərt",
+    "audio": "alert001"
+  },
+  {
+    "text": "Pal",
+    "pron": "ˈpal",
+    "audio": "pal00001"
+  },
+  {
+    "text": "Allow",
+    "pron": "ə-ˈlau̇",
+    "audio": "allow001"
+  },
+  {
+    "text": "Queue",
+    "pron": "ˈkyü",
+    "audio": "queue001"
+  },
+  {
+    "text": "Request",
+    "pron": "ri-ˈkwest",
+    "audio": "reques01"
+  },
+  {
+    "text": "Query",
+    "pron": "ˈkwir-ē, ˈkwer-",
+    "audio": "query001"
+  },
+  {
     "text": "Inventory",
     "pron": "ˈin-vən-ˌtȯr-ē",
     "audio": "invent06"
@@ -73,11 +103,6 @@
     "text": "Performance",
     "pron": "pə(r)-ˈfȯr-mən(t)s",
     "audio": "perfor11"
-  },
-  {
-    "text": "Alert",
-    "pron": "ə-ˈlərt",
-    "audio": "alert001"
   },
   {
     "text": "Configure",
@@ -130,11 +155,6 @@
     "audio": "reposi06"
   },
   {
-    "text": "Allow",
-    "pron": "ə-ˈlau̇",
-    "audio": "allow001"
-  },
-  {
     "text": "Command",
     "pron": "kə-ˈmand",
     "audio": "comman01"
@@ -155,11 +175,6 @@
     "audio": "intere03"
   },
   {
-    "text": "Request",
-    "pron": "ri-ˈkwest",
-    "audio": "reques01"
-  },
-  {
     "text": "Assistant",
     "pron": "-tənt",
     "audio": "assist03"
@@ -173,15 +188,5 @@
     "text": "Statistics",
     "pron": "stə-ˈtis-tiks",
     "audio": "statis07"
-  },
-  {
-    "text": "Pal",
-    "pron": "ˈpal",
-    "audio": "pal00001"
-  },
-  {
-    "text": "Query",
-    "pron": "ˈkwir-ē, ˈkwer-",
-    "audio": "query001"
   }
 ]
