@@ -40,6 +40,16 @@
     "audio": "header01"
   },
   {
+    "text": "Height",
+    "pron": "ˈhīt, ÷ˈhītth",
+    "audio": "height01"
+  },
+  {
+    "text": "Gender",
+    "pron": "ˈjen-dər",
+    "audio": "gender01"
+  },
+  {
     "text": "Engine",
     "pron": "ˈen-jən",
     "audio": "engine01"
@@ -50,14 +60,19 @@
     "audio": "ready001"
   },
   {
-    "text": "Debt",
-    "pron": "ˈdet",
-    "audio": "debt0001"
-  },
-  {
     "text": "Alert",
     "pron": "ə-ˈlərt",
     "audio": "alert001"
+  },
+  {
+    "text": "Request",
+    "pron": "ri-ˈkwest",
+    "audio": "reques01"
+  },
+  {
+    "text": "Report",
+    "pron": "ri-ˈpȯrt",
+    "audio": "report01"
   },
   {
     "text": "Pal",
@@ -75,9 +90,14 @@
     "audio": "queue001"
   },
   {
-    "text": "Request",
-    "pron": "ri-ˈkwest",
-    "audio": "reques01"
+    "text": "Mandatory",
+    "pron": "ˈman-də-ˌtȯr-ē",
+    "audio": "mandat04"
+  },
+  {
+    "text": "Debt",
+    "pron": "ˈdet",
+    "audio": "debt0001"
   },
   {
     "text": "Query",
@@ -115,39 +135,9 @@
     "audio": "optimi06"
   },
   {
-    "text": "Direct",
-    "pron": "də-ˈrekt, dī-",
-    "audio": "direct01"
-  },
-  {
-    "text": "Method",
-    "pron": "ˈme-thəd",
-    "audio": "method01"
-  },
-  {
-    "text": "Often",
-    "pron": "ȯ-fən, ÷ˈȯf-tən",
-    "audio": "often001"
-  },
-  {
-    "text": "Steak",
-    "pron": "ˈstāk",
-    "audio": "steak001",
-    "compare": {
-      "text": "Stake",
-      "pron": "ˈstāk",
-      "audio": "stake001"
-    }
-  },
-  {
     "text": "Attribute",
     "pron": "ˈa-trə-ˌbyüt",
     "audio": "attrib01"
-  },
-  {
-    "text": "Thought",
-    "pron": "ˈthȯt",
-    "audio": "though02"
   },
   {
     "text": "Repository",
@@ -163,30 +153,5 @@
     "text": "Hierarchy",
     "pron": "hī-(ə-)ˌrär-kē; ˈhi(-ə)r-ˌär-",
     "audio": "hierar07"
-  },
-  {
-    "text": "Mandatory",
-    "pron": "ˈman-də-ˌtȯr-ē",
-    "audio": "mandat04"
-  },
-  {
-    "text": "Interesting",
-    "pron": "ˈin-t(ə-)rəs-tiŋ; ˈin-tə-ˌres-, ˈin-ˌtres-; ˈin-tərs-",
-    "audio": "intere03"
-  },
-  {
-    "text": "Assistant",
-    "pron": "-tənt",
-    "audio": "assist03"
-  },
-  {
-    "text": "Demand",
-    "pron": "di-ˈmand, -ˈmänd, dē-",
-    "audio": "demand01"
-  },
-  {
-    "text": "Statistics",
-    "pron": "stə-ˈtis-tiks",
-    "audio": "statis07"
   }
 ]
