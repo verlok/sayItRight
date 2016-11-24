@@ -1,14 +1,14 @@
-$critical-usage-threshold: 1;
-$graceful-usage-threshold: 5;
-
-@import "compass/css3";
-//@import "compass/reset";
-
 body {
 	font-size: 1.5em;
 	text-align: center;
 	font-family: Georgia, serif;
 	margin: 1em;
+}
+
+button {
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom, #EEE, #DDD);
+	border-radius: .3em;
 }
 
 .sprites {
