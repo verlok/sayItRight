@@ -1,23 +1,73 @@
 [
   {
-    "text": "Feature",
-    "pron": "ˈfē-chər",
-    "audio": "featur01",
+    "text": "Promise",
+    "pron": "ˈprä-məs",
+    "audio": "promis03"
+  },
+  {
+    "text": "Pay",
+    "pron": "ˈpā",
+    "audio": "pay00001",
     "compare": {
-      "text": "Future",
-      "pron": "ˈfyü-chər",
-      "audio": "future01"
+      "text": "Pal",
+      "pron": "ˈpal",
+      "audio": "pal00001"
     }
+  },
+  {
+    "text": "Height",
+    "pron": "ˈhīt, ÷ˈhītth",
+    "audio": "height01",
+    "compare": {
+      "text": "Width",
+      "pron": "ˈwitth",
+      "audio": "width001"
+    }
+  },
+  {
+    "text": "Repository",
+    "pron": "ri-ˈpä-zə-ˌtȯr-ē",
+    "audio": "reposi06"
+  },
+  {
+    "text": "Engine",
+    "pron": "ˈen-jən",
+    "audio": "engine01"
+  },
+  {
+    "text": "Request",
+    "pron": "ri-ˈkwest",
+    "audio": "reques01"
+  },
+  {
+    "text": "Alert",
+    "pron": "ə-ˈlərt",
+    "audio": "alert001"
+  },
+  {
+    "text": "Debt",
+    "pron": "ˈdet",
+    "audio": "debt0001"
+  },
+  {
+    "text": "Attribute",
+    "pron": "ˈa-trə-ˌbyüt",
+    "audio": "attrib01"
+  },
+  {
+    "text": "Command",
+    "pron": "kə-ˈmand",
+    "audio": "comman01"
+  },
+  {
+    "text": "Header",
+    "pron": "ˈhe-dər",
+    "audio": "header01"
   },
   {
     "text": "Development",
     "pron": "ˈdi-ˈve-ləp-mənt, dē-",
-    "audio": "develo06",
-    "compare": {
-      "text": "Developer",
-      "pron": "di-ˈve-lə-pər, dē-",
-      "audio": "develo04"
-    }
+    "audio": "develo06"
   },
   {
     "text": "Management",
@@ -35,54 +85,14 @@
     "audio": "mainte01"
   },
   {
-    "text": "Header",
-    "pron": "ˈhe-dər",
-    "audio": "header01"
-  },
-  {
-    "text": "Promise",
-    "pron": "ˈprä-məs",
-    "audio": "promis03"
-  },
-  {
-    "text": "Height",
-    "pron": "ˈhīt, ÷ˈhītth",
-    "audio": "height01"
-  },
-  {
     "text": "Gender",
     "pron": "ˈjen-dər",
     "audio": "gender01"
   },
   {
-    "text": "Engine",
-    "pron": "ˈen-jən",
-    "audio": "engine01"
-  },
-  {
-    "text": "Ready",
-    "pron": "ˈre-dē",
-    "audio": "ready001"
-  },
-  {
-    "text": "Alert",
-    "pron": "ə-ˈlərt",
-    "audio": "alert001"
-  },
-  {
-    "text": "Request",
-    "pron": "ri-ˈkwest",
-    "audio": "reques01"
-  },
-  {
     "text": "Report",
     "pron": "ri-ˈpȯrt",
     "audio": "report01"
-  },
-  {
-    "text": "Pal",
-    "pron": "ˈpal",
-    "audio": "pal00001"
   },
   {
     "text": "Allow",
@@ -98,11 +108,6 @@
     "text": "Mandatory",
     "pron": "ˈman-də-ˌtȯr-ē",
     "audio": "mandat04"
-  },
-  {
-    "text": "Debt",
-    "pron": "ˈdet",
-    "audio": "debt0001"
   },
   {
     "text": "Query",
@@ -138,25 +143,5 @@
     "text": "Optimization",
     "pron": "ˌäp-tə-mə-ˈzā-shən",
     "audio": "optimi06"
-  },
-  {
-    "text": "Attribute",
-    "pron": "ˈa-trə-ˌbyüt",
-    "audio": "attrib01"
-  },
-  {
-    "text": "Repository",
-    "pron": "ri-ˈpä-zə-ˌtȯr-ē",
-    "audio": "reposi06"
-  },
-  {
-    "text": "Command",
-    "pron": "kə-ˈmand",
-    "audio": "comman01"
-  },
-  {
-    "text": "Hierarchy",
-    "pron": "hī-(ə-)ˌrär-kē; ˈhi(-ə)r-ˌär-",
-    "audio": "hierar07"
   }
 ]
